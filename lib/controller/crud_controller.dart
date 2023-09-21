@@ -1,4 +1,4 @@
-import 'package:crudsqlite/db/de_helper.dart';
+/*import 'package:crudsqlite/db/de_helper.dart';
 import 'package:get/get.dart';
 
 class CRUDController extends GetxController {
